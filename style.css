@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+
+span #Score{
+    float:left;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+span #Timer{
+    float:right;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+span #SketchEST{
+    color:blueviolet;
+}
